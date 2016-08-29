@@ -2,15 +2,18 @@
 
 ##Technologies
 ###Front-end
-*Aurelia
-*ITCss
+
+* Aurelia
+* ITCss
 
 ###Back-end
-*NodeJS
-*Express
-*Mongoose
+
+* NodeJS
+* Express
+* Mongoose
 
 ##Server/Hosting
-*MongoDB
-*DigitalOcean
-*HTTP2
+
+* MongoDB
+* DigitalOcean
+* HTTP2
