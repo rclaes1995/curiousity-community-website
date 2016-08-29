@@ -4,7 +4,7 @@
 ###Front-end
 
 * Aurelia
-* ITCss
+* SASS
 
 ###Back-end
 
@@ -17,3 +17,8 @@
 * MongoDB
 * DigitalOcean
 * HTTP2
+
+# Methodologies
+
+* ITCSS
+* Git Flow
